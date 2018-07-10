@@ -1,0 +1,2 @@
+module AyakaHelper
+end
